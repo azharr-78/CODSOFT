@@ -1,4 +1,5 @@
 # CODSOFT
 ## My Projects
-- [Portfolio](/portfolio)
-- [Task 2: Project Name](/task2)
+- [Task 1: Portfolio](/portfolio)
+- [Task 2: Calculator](/task2)
+- [Task 3: Landing page](/task3/)
