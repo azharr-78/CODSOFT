@@ -6,4 +6,4 @@
 
 🛠️ **Tech Stack**: HTML, CSS, JavaScript
 
-📫 **Contact**: ajharm8878@gmail.com | [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/mohammad-azhar-bilal-38689132b)
+📫 **Contact**: ajharm8878@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-azhar-bilal-38689132b/)
