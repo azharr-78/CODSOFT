@@ -13,7 +13,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
+    line-height: 1;
     color: #333;
 }
 
@@ -145,4 +145,33 @@ footer {
     .about-content {
         flex-direction: column;
     }
+}
+/* Resume Section Styles */
+.resume-section {
+  text-align: center;      /* Centers text and inline elements */
+  padding: 4rem 0;        /* Adds space around the button */
+  background: #f8f9fa;    /* Light gray background (optional) */
+}
+
+.resume-btn {
+  display: inline-block;  /* Allows padding/width adjustments */
+  background: #3498db;    /* Blue button color */
+  color: white;
+  padding: 12px 30px;
+  border-radius: 50px;    /* Rounded edges */
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.resume-btn:hover {
+  background: #2980b9;    /* Darker blue on hover */
+  transform: translateY(-3px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+.resume-btn i {
+  margin-right: 8px;      /* Space between icon and text */
 }
